@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+category_id,category
+cat1,music
+cat2,film & video
+cat3,games
+cat4,journalism
+cat5,food
+cat6,theater
+cat7,publishing
+cat8,technology
+cat9,photography
+=======
 category_id,category
 cat1,photography
 cat2,games
@@ -8,3 +20,4 @@ cat6,film & video
 cat7,food
 cat8,publishing
 cat9,technology
+>>>>>>> 3620562a2ba6d8da43a3423f7ee4474a837dd5e4

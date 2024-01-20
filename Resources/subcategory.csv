@@ -1,3 +1,30 @@
+<<<<<<< HEAD
+subcategory_id,subcategory
+subcat1,fiction
+subcat2,plays
+subcat3,wearables
+subcat4,web
+subcat5,metal
+subcat6,documentary
+subcat7,photography books
+subcat8,television
+subcat9,world music
+subcat10,video games
+subcat11,jazz
+subcat12,radio & podcasts
+subcat13,translations
+subcat14,indie rock
+subcat15,science fiction
+subcat16,mobile games
+subcat17,nonfiction
+subcat18,rock
+subcat19,shorts
+subcat20,drama
+subcat21,food trucks
+subcat22,audio
+subcat23,animation
+subcat24,electric music
+=======
 subcategory_id,subcategory
 subcat1,animation
 subcat2,world music
@@ -23,3 +50,4 @@ subcat21,plays
 subcat22,indie rock
 subcat23,mobile games
 subcat24,nonfiction
+>>>>>>> 3620562a2ba6d8da43a3423f7ee4474a837dd5e4
